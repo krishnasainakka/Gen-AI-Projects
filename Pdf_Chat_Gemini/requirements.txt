@@ -1,0 +1,8 @@
+# python -m venv myenv # creating a virtual environment
+streamlit
+google-generativeai
+python-dotenv
+langchain-community
+pyPDF2
+faiss-cpu # for checking similarity (faiss - facebook AI similarity search)
+langchain_google_genai
